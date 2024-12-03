@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">TO-DO</string>
+    <string name="todo" translatable="false">logo</string>
+    <string name="mail">Eranga739@gmail.com</string>
+    <string name="password">##########</string>
+    <string name="home">Home</string>
+    <string name="plusbutton" translatable="false">plus</string>
+    <string name="Task" translatable="false">Task</string>
+    <string name="save" translatable="false">Save</string>
+    <string name="search">Search</string>
+    <string name="Seemore">Work focus time</string>
+    <string name="Seemyworklist">See my work list</string>
+    <string name="Taskname">Task Name</string>
+    <string name="date_time">Due: 01/01/2024 10:00 AM</string>
+    <string name="coutdown">Countdown: 00:00:00</string>
+    <string name="DueDate">Due Date</string>
+    <string name="time">Due Time</string>
+    <string name="description">Description</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="Reset">Reset</string>
+    <string name="HighScore">High Score</string>
+    <string name="dailyScore">Daily Score</string>
+    <string name="stopwatch">Let\'s focus your works</string>
+    <string name="widget_description">Displays upcoming tasks</string>
+</resources>

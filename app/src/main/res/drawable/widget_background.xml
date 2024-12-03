@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- State for when the widget is pressed -->
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#D3D3D3"/> <!-- A darker color for the pressed state -->
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+    <!-- State for when the widget is focused -->
+    <item android:state_focused="true">
+        <shape>
+            <solid android:color="#E0E0E0"/> <!-- Slightly different color for focused state -->
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+    <!-- Default state for the widget -->
+    <item>
+        <shape>
+            <solid android:color="#F5F5F5"/> <!-- Default light background color -->
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+</selector>
